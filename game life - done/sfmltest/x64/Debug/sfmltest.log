@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (sfmltest.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+D:\c++ programms\game life - done\sfmltest\main.cpp(164,53): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\c++ programms\game life - done\sfmltest\main.cpp(164,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\c++ programms\game life - done\sfmltest\main.cpp(172,53): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\c++ programms\game life - done\sfmltest\main.cpp(172,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  sfmltest.vcxproj -> D:\c++ programms\game life - done\x64\Debug\game_life.exe
